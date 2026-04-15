@@ -182,15 +182,9 @@
 ## 🎯 Current Focus
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  🤖  AI-powered web applications & intelligent automation      │
-│  🌍  Advanced GIS for hydrology & environmental monitoring     │
-│  🎨  Premium frontend UI/UX & high-conversion web design       │
-│  💼  Freelancing & delivering solutions for global clients     │
-│  📡  Integrating LLMs into government data infrastructure      │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+<div align="center">
+  <img src="./assets/current-focus.svg" width="100%" alt="Current Focus"/>
+</div>
 ```
 
 ---
