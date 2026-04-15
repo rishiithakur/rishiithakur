@@ -39,7 +39,7 @@
 
 ## `WHO AM I`
 <div align="center">
-  <img src="./assets/whoami.svg" alt="whoami card" width="100%"/>
+  <img src="./assets/WHOIAM2.svg" alt="whoami card" width="100%"/>
 </div>
 
 > *"From World Bank infrastructure to pixel-perfect UIs — engineering with purpose, precision, and scale."*
