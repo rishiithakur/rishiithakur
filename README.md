@@ -1,7 +1,8 @@
+(https://github.com/user-attachments/files/26738102/README.3.md)
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a1a2e,100:16213e&height=220&section=header&text=Rishabh%20Thakur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20GIS%20Analyst%20%E2%80%A2%20Web%20Architect&descSize=18&descAlignY=65&descColor=a0aec0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=220&section=header&text=Rishabh%20Thakur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20GIS%20Analyst%20%E2%80%A2%20Web%20Architect&descSize=18&descAlignY=65&descColor=a0aec0" />
 
 <!-- DYNAMIC TYPING -->
 <a href="https://github.com/rishiithakur">
@@ -29,9 +30,9 @@
 
 <!-- PROFILE SNAKE ANIMATION -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rishiithakur/rishiithakur/blob/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rishiithakur/rishiithakur/blob/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution snake" src="https://github.com/rishiithakur/rishiithakur/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishiithakur/rishiithakur/output/dist/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishiithakur/rishiithakur/output/dist/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/rishiithakur/rishiithakur/output/dist/github-snake-dark.svg"/>
 </picture>
 
 </div>
@@ -43,15 +44,15 @@
 ```yaml
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   name        :  Rishabh Thakur                            │
-│   alias       :  rishiithakur                              │
-│   role        :  AI Engineer · GIS Analyst · Web Dev       │
-│   employer    :  SHINE Soft Pvt. Ltd.                      │
-│   location    :  India 🇮🇳  (Solan, Himachal Pradesh)      │
-│   experience  :  3+ Years in AI, GIS & Web Systems        │
-│   projects    :  World Bank DRIP-II · Nat. Hydrology NHP  │
-│   funded_by   :  World Bank 🌍                             │
-│   mission     :  Engineering at the edge of AI + GIS      │
+│   NAME        :  Rishabh Thakur                            │
+│   Alias       :  rishiithakur                              │
+│   Role        :  AI Engineer · GIS Analyst · Web Dev       │
+│   Employer    :  SHINE Soft Pvt. Ltd.                      │
+│   Location    :  India 🇮🇳  (Solan, Himachal Pradesh)      │
+│   Experience  :  3+ Years in AI, GIS & Web Systems        │
+│   Projects    :  World Bank DRIP-II · Nat. Hydrology NHP  │
+│   Funded_by   :  World Bank 🌍                             │
+│   Mission     :  Engineering at the edge of AI + GIS      │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -248,5 +249,41 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer&text=Built%20with%20%E2%9A%A1%20precision%20%26%20purpose&fontSize=16&fontColor=6C63FF&animation=fadeIn&fontAlignY=65"/>
 
 <sub>⭐ If you find my work valuable, consider starring my repos — it fuels the mission.</sub>
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs every day at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from GitHub UI
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+[snake.yml](https://github.com/user-attachments/files/26738137/snake.yml)
+
 
 </div>
