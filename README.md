@@ -143,17 +143,27 @@
 
 ---
 
-## 📊 GitHub Intelligence
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.shion.dev/api?username=rishiithakur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=a0aec0&border_radius=10"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishiithakur&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=a0aec0&border_radius=10&langs_count=8"/>
+## 📊 GitHub Intelligence
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=rishiithakur&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF&border_radius=10" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.shion.dev/api?username=rishiithakur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=a0aec0&border_radius=10"/>
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishiithakur&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=a0aec0&border_radius=10&langs_count=8"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br/>
+      <img width="96%" src="https://streak-stats.demolab.com/?user=rishiithakur&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF&border_radius=10"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -181,13 +191,10 @@
 
 ## 🎯 Current Focus
 
-```
 <div align="center">
-  <img src="./assets/current-focus.svg" width="100%" alt="Current Focus"/>
+  <img src="./assets/focus.svg" width="100%" alt="Current Focus"/>
 </div>
-```
 
----
 
 ## 💡 Dev Philosophy
 
