@@ -37,23 +37,10 @@
 
 ---
 
-## `whoami`
-
-```yaml
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   name        :  Rishabh Thakur                            │
-│   alias       :  rishiithakur                              │
-│   role        :  AI Engineer · GIS Analyst · Web Dev       │
-│   employer    :  SHINE Soft Pvt. Ltd.                      │
-│   location    :  India 🇮🇳  (Solan, Himachal Pradesh)      │
-│   experience  :  3+ Years in AI, GIS & Web Systems        │
-│   projects    :  World Bank DRIP-II · Nat. Hydrology NHP  │
-│   funded_by   :  World Bank 🌍                             │
-│   mission     :  Engineering at the edge of AI + GIS      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+## `WHO AM I`
+<div align="center">
+  <img src="./assets/whoami-card.svg" alt="whoami card" width="100%"/>
+</div>
 
 > *"From World Bank infrastructure to pixel-perfect UIs — engineering with purpose, precision, and scale."*
 
