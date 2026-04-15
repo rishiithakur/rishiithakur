@@ -1,0 +1,205 @@
+<svg width="860" height="340" viewBox="0 0 860 340" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Rishabh Thakur — Developer Identity Card</title>
+  <desc>Premium whoami card for Rishabh Thakur — AI Engineer, GIS Analyst, Web Developer</desc>
+
+  <defs>
+    <!-- Main background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#04080f"/>
+      <stop offset="50%" style="stop-color:#080d1a"/>
+      <stop offset="100%" style="stop-color:#060a15"/>
+    </linearGradient>
+
+    <!-- Glowing border gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="35%" style="stop-color:#7c3aed"/>
+      <stop offset="70%" style="stop-color:#06b6d4"/>
+      <stop offset="100%" style="stop-color:#a855f7"/>
+    </linearGradient>
+
+    <!-- Name glow gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#38bdf8"/>
+      <stop offset="50%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#34d399"/>
+    </linearGradient>
+
+    <!-- Accent line gradient -->
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </linearGradient>
+
+    <!-- Inner glow for card -->
+    <radialGradient id="innerGlow" cx="25%" cy="20%" r="60%">
+      <stop offset="0%" style="stop-color:#1e3a5f;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#04080f;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Glow filter for border -->
+    <filter id="glowFilter" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft shadow filter -->
+    <filter id="cardShadow" x="-8%" y="-8%" width="116%" height="116%">
+      <feDropShadow dx="0" dy="0" stdDeviation="18" flood-color="#06b6d4" flood-opacity="0.15"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="35" flood-color="#7c3aed" flood-opacity="0.10"/>
+    </filter>
+
+    <!-- Name glow text -->
+    <filter id="nameGlow">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#38bdf8" flood-opacity="0.5" result="color"/>
+      <feComposite in="color" in2="blur" operator="in" result="glowBlur"/>
+      <feMerge>
+        <feMergeNode in="glowBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Top right orb -->
+    <radialGradient id="orbGrad1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.25"/>
+      <stop offset="100%" style="stop-color:#7c3aed;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="orbGrad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#06b6d4;stop-opacity:0.20"/>
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Grid pattern -->
+    <pattern id="gridPattern" x="0" y="0" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-width="0.15" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+
+  <!-- Outer card shadow/glow layer -->
+  <rect x="6" y="6" width="848" height="328" rx="22" ry="22" fill="none"
+        stroke="url(#borderGrad)" stroke-width="1.5" opacity="0.3" filter="url(#cardShadow)"/>
+
+  <!-- Main card background -->
+  <rect x="2" y="2" width="856" height="336" rx="22" ry="22" fill="url(#bgGrad)"/>
+
+  <!-- Grid overlay -->
+  <rect x="2" y="2" width="856" height="336" rx="22" ry="22" fill="url(#gridPattern)"/>
+
+  <!-- Inner glow -->
+  <rect x="2" y="2" width="856" height="336" rx="22" ry="22" fill="url(#innerGlow)"/>
+
+  <!-- Decorative orbs -->
+  <ellipse cx="720" cy="70" rx="130" ry="130" fill="url(#orbGrad1)"/>
+  <ellipse cx="140" cy="280" rx="100" ry="100" fill="url(#orbGrad2)"/>
+  <ellipse cx="800" cy="270" rx="80" ry="80" fill="url(#orbGrad2)"/>
+
+  <!-- Border glow ring -->
+  <rect x="2" y="2" width="856" height="336" rx="22" ry="22" fill="none"
+        stroke="url(#borderGrad)" stroke-width="1.5" filter="url(#glowFilter)" opacity="0.85"/>
+
+  <!-- Thin crisp border on top -->
+  <rect x="2" y="2" width="856" height="336" rx="22" ry="22" fill="none"
+        stroke="url(#borderGrad)" stroke-width="0.75" opacity="0.6"/>
+
+  <!-- LEFT COLUMN — vertical cyan accent bar -->
+  <rect x="42" y="40" width="2.5" height="260" rx="1.25" fill="url(#accentLine)" opacity="0.9"/>
+
+  <!-- ── NAME + ALIAS ── -->
+  <text x="62" y="78" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="700" font-size="30" fill="url(#nameGrad)"
+        filter="url(#nameGlow)" letter-spacing="0.5">Rishabh Thakur</text>
+
+  <text x="64" y="100" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="12.5" fill="#38bdf8" letter-spacing="3" opacity="0.75">@rishiithakur</text>
+
+  <!-- Divider line -->
+  <rect x="42" y="112" width="380" height="0.75" fill="url(#accentLine)" opacity="0.5"/>
+
+  <!-- ── GRID ROWS — LEFT COLUMN ── -->
+
+  <!-- Row 1: Role -->
+  <text x="62" y="137" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="500" font-size="11" fill="#4a9eba" letter-spacing="1.5" text-transform="uppercase">ROLE</text>
+  <text x="62" y="154" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="13.5" fill="#e2e8f0">AI Engineer · GIS Analyst · Web Developer</text>
+
+  <!-- Row 2: Employer -->
+  <text x="62" y="178" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="500" font-size="11" fill="#4a9eba" letter-spacing="1.5">EMPLOYER</text>
+  <text x="62" y="195" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="13.5" fill="#e2e8f0">SHINE Soft Pvt. Ltd.</text>
+
+  <!-- Row 3: Location -->
+  <text x="62" y="218" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="500" font-size="11" fill="#4a9eba" letter-spacing="1.5">LOCATION</text>
+  <text x="62" y="235" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="13.5" fill="#e2e8f0">India 🇮🇳  —  Solan, Himachal Pradesh</text>
+
+  <!-- Row 4: Experience -->
+  <text x="62" y="258" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="500" font-size="11" fill="#4a9eba" letter-spacing="1.5">EXPERIENCE</text>
+  <text x="62" y="275" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="13.5" fill="#e2e8f0">3+ Years in AI, GIS &amp; Web Systems</text>
+
+  <!-- ── VERTICAL SEPARATOR ── -->
+  <rect x="450" y="40" width="0.75" height="260" fill="#38bdf8" opacity="0.12"/>
+
+  <!-- ── RIGHT COLUMN ── -->
+
+  <!-- Funded by tag pill -->
+  <rect x="470" y="42" width="130" height="26" rx="13" fill="#0c2340" stroke="#06b6d4" stroke-width="0.75" stroke-opacity="0.6"/>
+  <text x="535" y="59.5" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-size="11" font-weight="600" fill="#38bdf8" text-anchor="middle" letter-spacing="1">🌍 WORLD BANK</text>
+
+  <!-- Projects label -->
+  <text x="470" y="98" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="500" font-size="11" fill="#4a9eba" letter-spacing="1.5">PROJECTS</text>
+
+  <!-- Project card 1 -->
+  <rect x="470" y="107" width="360" height="48" rx="8" fill="#0a1628" stroke="#06b6d4" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="470" y="107" width="3" height="48" rx="1.5" fill="#06b6d4" opacity="0.9"/>
+  <text x="484" y="126" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="600" font-size="13" fill="#e2e8f0">DRIP-II</text>
+  <text x="484" y="144" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="11.5" fill="#94a3b8">Dam Rehabilitation &amp; Improvement Project</text>
+
+  <!-- Project card 2 -->
+  <rect x="470" y="165" width="360" height="48" rx="8" fill="#0a1628" stroke="#7c3aed" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="470" y="165" width="3" height="48" rx="1.5" fill="#a78bfa" opacity="0.9"/>
+  <text x="484" y="184" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="600" font-size="13" fill="#e2e8f0">National Hydrology Project</text>
+  <text x="484" y="202" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="11.5" fill="#94a3b8">AI-powered GIS &amp; water body analysis</text>
+
+  <!-- Mission label -->
+  <text x="470" y="237" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="500" font-size="11" fill="#4a9eba" letter-spacing="1.5">MISSION</text>
+
+  <!-- Mission card -->
+  <rect x="470" y="246" width="360" height="40" rx="8" fill="#0c0a1e" stroke="#a855f7" stroke-width="0.6" stroke-opacity="0.4"/>
+  <rect x="470" y="246" width="360" height="40" rx="8" fill="url(#orbGrad1)"/>
+  <text x="650" y="271" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="12.5" fill="#c4b5fd" text-anchor="middle"
+        font-style="italic">Engineering at the edge of AI + GIS</text>
+
+  <!-- Bottom strip -->
+  <rect x="42" y="302" width="776" height="0.75" fill="url(#accentLine)" opacity="0.25"/>
+
+  <!-- Bottom label -->
+  <text x="42" y="320" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="10.5" fill="#334155" letter-spacing="2">GITHUB.COM/RISHIITHAKUR</text>
+
+  <!-- Bottom right tagline -->
+  <text x="818" y="320" font-family="'Segoe UI', Inter, system-ui, sans-serif"
+        font-weight="400" font-size="10.5" fill="#334155" text-anchor="end" letter-spacing="1">AI · GIS · WEB</text>
+
+  <!-- Corner accent dots -->
+  <circle cx="32" cy="32" r="3" fill="#06b6d4" opacity="0.5"/>
+  <circle cx="828" cy="32" r="3" fill="#a855f7" opacity="0.5"/>
+  <circle cx="32" cy="308" r="3" fill="#a855f7" opacity="0.5"/>
+  <circle cx="828" cy="308" r="3" fill="#06b6d4" opacity="0.5"/>
+</svg>
