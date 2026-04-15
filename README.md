@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/26737612/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishabh%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2B%20Web%20Developer%20%7C%20GIS%20Analyst%20%7C%20Data%20%26%20Automation%20Engineer&descAlignY=54&descSize=16" />
