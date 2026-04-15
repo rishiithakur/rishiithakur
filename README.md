@@ -1,147 +1,193 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rishabh%20Thakur&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2B%20Web%20Developer%20%7C%20GIS%20Analyst%20%7C%20Data%20%26%20Automation%20Engineer&descAlignY=54&descSize=16" />
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:1a1a2e,100:16213e&height=220&section=header&text=Rishabh%20Thakur&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20GIS%20Analyst%20%E2%80%A2%20Web%20Architect&descSize=18&descAlignY=65&descColor=a0aec0" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI-Driven+IT+Solutions+Specialist+%F0%9F%A4%96;World+Bank+%26+Government+Project+Engineer+%F0%9F%8C%8D;GIS+%7C+Web+%7C+Data+%7C+Automation+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- DYNAMIC TYPING -->
+<a href="https://github.com/rishiithakur">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Building+AI-powered+solutions+for+global+impact+%F0%9F%8C%8D;World+Bank+%7C+GIS+%7C+Data+Engineering+%7C+AI+Automation;Turning+complex+problems+into+elegant+systems+%E2%9A%A1" />
+</a>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://instagram.com/i.rishii.thakur"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:rishu9882876884@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="mailto:RishabhThakur@shinesoft.co.in"><img src="https://img.shields.io/badge/Work%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=rishiithakur&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+  <a href="https://instagram.com/i.rishii.thakur">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
+  </a>
+  &nbsp;
+  <a href="mailto:rishu9882876884@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+  </a>
+  &nbsp;
+  <a href="mailto:RishabhThakur@shinesoft.co.in">
+    <img src="https://img.shields.io/badge/Work-RishabhThakur%40shinesoft.co.in-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=1a1a2e"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=rishiithakur&label=Profile+Views&color=6C63FF&style=for-the-badge&labelColor=1a1a2e"/>
 </p>
 
+<br/>
+
+<!-- PROFILE SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rishiithakur/rishiithakur/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/rishiithakur/rishiithakur/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution snake" src="https://github.com/rishiithakur/rishiithakur/blob/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
 </div>
 
 ---
 
-## 🧠 About Me
+## `whoami`
 
 ```yaml
-name        : Rishabh Thakur
-role        : AI + Web Developer | IT Solutions Specialist | GIS Analyst
-experience  : 3+ Years
-location    : India 🇮🇳
-focus       : AI · GIS · Data Systems · Web Applications
-employer    : SHINE Soft Pvt. Ltd.
-projects    : World Bank DRIP-II | National Hydrology Project
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   name        :  Rishabh Thakur                            │
+│   alias       :  rishiithakur                              │
+│   role        :  AI Engineer · GIS Analyst · Web Dev       │
+│   employer    :  SHINE Soft Pvt. Ltd.                      │
+│   location    :  India 🇮🇳  (Solan, Himachal Pradesh)      │
+│   experience  :  3+ Years in AI, GIS & Web Systems        │
+│   projects    :  World Bank DRIP-II · Nat. Hydrology NHP  │
+│   funded_by   :  World Bank 🌍                             │
+│   mission     :  Engineering at the edge of AI + GIS      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-> *"Building scalable, AI-powered solutions at the intersection of geospatial intelligence, data engineering, and modern web development — for government and global institutions."*
+> *"From World Bank infrastructure to pixel-perfect UIs — engineering with purpose, precision, and scale."*
 
 ---
 
-## 💼 Professional Experience
+## ⚡ What I Do
 
-<table>
-  <tr>
-    <td><b>🏢 Role</b></td>
-    <td>IT Solutions Specialist & GIS Analyst</td>
-  </tr>
-  <tr>
-    <td><b>🏗️ Company</b></td>
-    <td>SHINE Soft Pvt. Ltd.</td>
-  </tr>
-  <tr>
-    <td><b>🌍 Projects</b></td>
-    <td>DRIP-II (Dam Rehabilitation & Improvement Project) · National Hydrology Project</td>
-  </tr>
-  <tr>
-    <td><b>🏦 Funded By</b></td>
-    <td>World Bank</td>
-  </tr>
-</table>
+<div align="center">
 
-**Key Contributions:**
-- 🤖 Developed AI-powered automation tools, chatbots & decision-support systems
-- 🗺️ Built GIS-based data systems using ArcGIS Pro & Google Earth Engine
-- 🔗 Integrated MIS platforms with World Bank STEP portal
-- 📊 Created enterprise dashboards, web apps & data visualization tools
+| 🤖 AI & Automation | 🌍 GIS & Remote Sensing | 🌐 Web & Dashboards | 📊 Data Systems |
+|:---:|:---:|:---:|:---:|
+| Chatbots · LLM Pipelines | ArcGIS Pro · GEE · QGIS | React · JS · WordPress | Power BI · SQL · ETL |
+| Copilot Integration | Hydrology Mapping | Enterprise UIs | Statistical Analysis |
+| Decision Support AI | LULC · ET · Water Bodies | Esri Web Apps | DB Schema Design |
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🏗️ Professional Experience
 
-### 🤖 AI & Automation
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![ChatGPT](https://img.shields.io/badge/AI%20Tools%20%26%20Copilots-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Chatbot](https://img.shields.io/badge/Chatbot%20Development-00B4D8?style=for-the-badge&logo=probot&logoColor=white)
-![Automation](https://img.shields.io/badge/Workflow%20Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white)
-![Pipeline](https://img.shields.io/badge/Data%20Pipeline%20Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<details open>
+<summary><b>🏢 IT Solutions Specialist & GIS Analyst — SHINE Soft Pvt. Ltd.</b></summary>
+<br/>
+
+**Projects under World Bank Funding:**
+
+🔷 **DRIP-II** — Dam Rehabilitation & Improvement Project
+- Built AI-powered decision support systems for dam safety operations
+- Developed GIS-based spatial databases and risk mapping tools
+- Integrated MIS platforms with World Bank STEP procurement portal
+
+🔷 **National Hydrology Project (NHP)**
+- Automated hydrological data pipelines using Python + GEE
+- Created geospatial dashboards for water body monitoring
+- Performed LULC classification, ET estimation & TBP analysis
+
+</details>
+
+---
+
+## 🧰 Tech Arsenal
+
+### ⚡ AI & Automation
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/LLM%20Integration-OpenAI%20%7C%20Claude-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chatbot%20Dev-Custom%20NLP-00B4D8?style=flat-square&logo=probot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-Workflow%20%26%20Pipeline-FF6F00?style=flat-square&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Copilot-AI%20Assisted%20Dev-0078D4?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
 ### 🌐 Web & UI/UX
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Dashboard%20Dev-0F4C81?style=for-the-badge&logo=grafana&logoColor=white)
-![Esri](https://img.shields.io/badge/Esri%20Web%20Apps-007AC2?style=for-the-badge&logo=esri&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-UI%20Design-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-Advanced-117AC9?style=flat-square&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Esri%20Web%20Apps-Expert-007AC2?style=flat-square&logo=esri&logoColor=white"/>
+</p>
 
 ### 🌍 GIS & Remote Sensing
-![ArcGIS](https://img.shields.io/badge/ArcGIS%20Pro-2C7BB6?style=for-the-badge&logo=esri&logoColor=white)
-![GEE](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge&logo=google-earth&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Raster](https://img.shields.io/badge/Raster%20Analysis-4CAF50?style=for-the-badge&logo=mapbox&logoColor=white)
-![LULC](https://img.shields.io/badge/LULC%20%7C%20ET%20%7C%20TBP-1B5E20?style=for-the-badge&logo=leaflet&logoColor=white)
-![Water](https://img.shields.io/badge/Water%20Body%20Delineation-0277BD?style=for-the-badge&logo=openstreetmap&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/ArcGIS%20Pro-Expert-2C7BB6?style=flat-square&logo=esri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-Intermediate-34A853?style=flat-square&logo=google-earth&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-Advanced-589632?style=flat-square&logo=qgis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Remote%20Sensing-Raster%20%7C%20Vector-4CAF50?style=flat-square&logo=satellite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydrology-LULC%20%7C%20ET%20%7C%20TBP-0277BD?style=flat-square&logo=water&logoColor=white"/>
+</p>
 
 ### 📊 Data & Analytics
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Statistics](https://img.shields.io/badge/Statistical%20Analysis-9C27B0?style=for-the-badge&logo=scipy&logoColor=white)
-![DataViz](https://img.shields.io/badge/Data%20Visualization-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-SciPy%20%7C%20Pandas-9C27B0?style=flat-square&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Viz-Plotly%20%7C%20Matplotlib-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+</p>
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Schema](https://img.shields.io/badge/DB%20Schema%20Design-FF7043?style=for-the-badge&logo=databricks&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-Production-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DB%20Schema%20Design-ERD%20%7C%20Query%20Opt.-FF7043?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
 
 ### ☁️ Cloud, DevOps & Tools
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-GEE%20%7C%20Firebase-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-DNS%20%7C%20CDN-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-Deploy-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-Version%20Control-F05033?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2671E5?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-Env%20Mgmt-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-Creative-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-Design-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Intelligence
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=rishiithakur&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishiithakur&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="185em" src="https://github-readme-stats.shion.dev/api?username=rishiithakur&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=a0aec0&border_radius=10"/>
+&nbsp;&nbsp;
+<img height="185em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rishiithakur&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=6C63FF&text_color=a0aec0&border_radius=10&langs_count=8"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com/?user=rishiithakur&theme=radical&hide_border=false)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rishiithakur&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
+<img src="https://streak-stats.demolab.com/?user=rishiithakur&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF&border_radius=10" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 Achievements
 
 <div align="center">
 
-![Snake animation](https://github.com/rishiithakur/rishiithakur/blob/output/github-contribution-grid-snake-dark.svg)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rishiithakur&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishiithakur&bg_color=0D1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true&area_color=6C63FF)](https://github.com/rishiithakur)
 
 </div>
 
@@ -150,18 +196,57 @@ projects    : World Bank DRIP-II | National Hydrology Project
 ## 🎯 Current Focus
 
 ```
-🤖  Building AI-powered web applications & intelligent automation tools
-🎨  Advanced frontend UI/UX & premium website development
-🌍  Deep geospatial analysis for hydrology & environmental systems
-💼  Freelancing & delivering high-impact solutions for global clients
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🤖  AI-powered web applications & intelligent automation      │
+│  🌍  Advanced GIS for hydrology & environmental monitoring     │
+│  🎨  Premium frontend UI/UX & high-conversion web design       │
+│  💼  Freelancing & delivering solutions for global clients     │
+│  📡  Integrating LLMs into government data infrastructure      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+```
+   Systems should be as intelligent as the problems they solve.
+   Design should be as clean as the data behind it.
+   Code should be as precise as the geospatial coordinates it maps.
+```
+
+</div>
+
+---
+
+## 📬 Let's Build Something
+
+<div align="center">
+
+**Open to freelance projects · AI integrations · GIS solutions · Premium web builds**
+
+<br/>
+
+<a href="mailto:rishu9882876884@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email%20Me-rishu9882876884%40gmail.com-6C63FF?style=for-the-badge&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/i.rishii.thakur">
+  <img src="https://img.shields.io/badge/📸%20Instagram-i.rishii.thakur-E4405F?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D0D0D&height=120&section=footer&text=Built%20with%20%E2%9A%A1%20precision%20%26%20purpose&fontSize=16&fontColor=6C63FF&animation=fadeIn&fontAlignY=65"/>
 
-*"From World Bank infrastructure to pixel-perfect UIs — engineering with purpose."*
+<sub>⭐ If you find my work valuable, consider starring my repos — it fuels the mission.</sub>
 
 </div>
